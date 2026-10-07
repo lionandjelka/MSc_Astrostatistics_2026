@@ -1,0 +1,41 @@
+index,column,arrow_type,category
+0,"('id', '')",string,scalar
+1,"('inputs', 'field')",string,scalar
+2,"('inputs', 'RA')",double,scalar
+3,"('inputs', 'dec')",double,scalar
+4,"('inputs', 'total mass')",double,scalar
+5,"('inputs', 'mass ratio')",double,scalar
+6,"('inputs', 'period')",double,scalar
+7,"('inputs', 'eccentricity')",double,scalar
+8,"('inputs', 'inclination')",double,scalar
+9,"('inputs', 'arg of pericenter')",double,scalar
+10,"('inputs', 'redshift')",double,scalar
+11,"('inputs', 'Eddington fraction')",double,scalar
+12,"('inputs', 'retrograde')",bool,scalar
+13,"('inputs', 'Doppler boosting')",bool,scalar
+14,"('inputs', 'lensing flare')",bool,scalar
+15,"('inputs', 'accretion modulation')",bool,scalar
+16,"('u band', 'info')","struct<DHO sigma_DHO: double, DHO sigma_epsilon: double, DHO tau_decay: double, DHO tau_perturb: double, DRW amp: double, DRW tau: double>",nested/heavy
+17,"('u band', 'time')",list<element: double>,nested/heavy
+18,"('u band', 'obs mag')",list<element: double>,nested/heavy
+19,"('u band', 'mag err')",list<element: double>,nested/heavy
+20,"('g band', 'info')","struct<DHO sigma_DHO: double, DHO sigma_epsilon: double, DHO tau_decay: double, DHO tau_perturb: double, DRW amp: double, DRW tau: double>",nested/heavy
+21,"('g band', 'time')",list<element: double>,nested/heavy
+22,"('g band', 'obs mag')",list<element: double>,nested/heavy
+23,"('g band', 'mag err')",list<element: double>,nested/heavy
+24,"('r band', 'info')","struct<DHO sigma_DHO: double, DHO sigma_epsilon: double, DHO tau_decay: double, DHO tau_perturb: double, DRW amp: double, DRW tau: double>",nested/heavy
+25,"('r band', 'time')",list<element: double>,nested/heavy
+26,"('r band', 'obs mag')",list<element: double>,nested/heavy
+27,"('r band', 'mag err')",list<element: double>,nested/heavy
+28,"('i band', 'info')","struct<DHO sigma_DHO: double, DHO sigma_epsilon: double, DHO tau_decay: double, DHO tau_perturb: double, DRW amp: double, DRW tau: double>",nested/heavy
+29,"('i band', 'time')",list<element: double>,nested/heavy
+30,"('i band', 'obs mag')",list<element: double>,nested/heavy
+31,"('i band', 'mag err')",list<element: double>,nested/heavy
+32,"('z band', 'info')","struct<DHO sigma_DHO: double, DHO sigma_epsilon: double, DHO tau_decay: double, DHO tau_perturb: double, DRW amp: double, DRW tau: double>",nested/heavy
+33,"('z band', 'time')",list<element: double>,nested/heavy
+34,"('z band', 'obs mag')",list<element: double>,nested/heavy
+35,"('z band', 'mag err')",list<element: double>,nested/heavy
+36,"('y band', 'info')","struct<DHO sigma_DHO: double, DHO sigma_epsilon: double, DHO tau_decay: double, DHO tau_perturb: double, DRW amp: double, DRW tau: double>",nested/heavy
+37,"('y band', 'time')",list<element: double>,nested/heavy
+38,"('y band', 'obs mag')",list<element: double>,nested/heavy
+39,"('y band', 'mag err')",list<element: double>,nested/heavy

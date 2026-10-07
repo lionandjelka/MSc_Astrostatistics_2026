@@ -1,0 +1,7 @@
+data/private/
+**/submission.csv
+**/submission_iid.csv
+**/submission_shift.csv
+**/*_truth_PRIVATE.parquet
+**/.ipynb_checkpoints/
+.DS_Store

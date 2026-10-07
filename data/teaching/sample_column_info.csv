@@ -1,0 +1,17 @@
+,,dtype,missing_n,missing_frac,n_unique_sample,missing_pct
+id,,object,0,0.0,10000,0.0
+inputs,field,object,0,0.0,2,0.0
+inputs,RA,float64,0,0.0,9813,0.0
+inputs,dec,float64,0,0.0,9787,0.0
+inputs,total mass,float64,0,0.0,9958,0.0
+inputs,mass ratio,float64,0,0.0,9811,0.0
+inputs,period,float64,0,0.0,9939,0.0
+inputs,eccentricity,float64,0,0.0,9795,0.0
+inputs,inclination,float64,0,0.0,9823,0.0
+inputs,arg of pericenter,float64,0,0.0,9809,0.0
+inputs,redshift,float64,0,0.0,9364,0.0
+inputs,Eddington fraction,float64,0,0.0,7114,0.0
+inputs,retrograde,bool,0,0.0,1,0.0
+inputs,Doppler boosting,bool,0,0.0,2,0.0
+inputs,lensing flare,bool,0,0.0,2,0.0
+inputs,accretion modulation,bool,0,0.0,2,0.0

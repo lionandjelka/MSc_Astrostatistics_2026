@@ -1,0 +1,4 @@
+# Add-ons to the original astrostat25 environment
+pyarrow>=15
+polars>=0.20
+duckdb>=1.0
