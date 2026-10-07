@@ -39,7 +39,7 @@ y band
 | `('inputs','RA')` | `inputs__RA` | right ascension | degrees | survey/context |
 | `('inputs','dec')` | `inputs__dec` | declination | degrees | survey/context |
 | `('inputs','total mass')` | `inputs__total_mass` | total binary mass | solar masses | latent physical input / target |
-| `('inputs','mass ratio')` | `inputs__mass_ratio` | binary mass ratio | \(M_2/M_1\) | latent physical input / target |
+| `('inputs','mass ratio')` | `inputs__mass_ratio` | binary mass ratio | $M_2/M_1$ | latent physical input / target |
 | `('inputs','period')` | `inputs__period` | **observed orbital period** | years | latent physical input / target |
 | `('inputs','eccentricity')` | `inputs__eccentricity` | orbital eccentricity | dimensionless | latent physical input |
 | `('inputs','inclination')` | `inputs__inclination` | orbital inclination angle | degrees | latent geometry |
@@ -71,12 +71,12 @@ The `info` structure contains:
 
 | Key | Symbol | Meaning | Units |
 |---|---|---|---|
-| `DRW amp` | \(\sigma\) | long-term RMS variability amplitude | mag |
-| `DRW tau` | \(\tau\) | damping timescale | days |
-| `DHO sigma_DHO` | \(\sigma_{\rm DHO}\) | long-term RMS variability amplitude | mag |
-| `DHO tau_decay` | \(\tau_{\rm decay}\) | long-term decay timescale | days |
-| `DHO sigma_epsilon` | \(\sigma_\epsilon\) | amplitude of short-term / white-noise perturbations | mag day\(^{-3/2}\) |
-| `DHO tau_perturb` | \(\tau_{\rm perturb}\) | short-term perturbation timescale | days |
+| `DRW amp` | $\sigma$ | long-term RMS variability amplitude | mag |
+| `DRW tau` | $\tau$ | damping timescale | days |
+| `DHO sigma_DHO` | $\sigma_{\rm DHO}$ | long-term RMS variability amplitude | mag |
+| `DHO tau_decay` | $\tau_{\rm decay}$ | long-term decay timescale | days |
+| `DHO sigma_epsilon` | $\sigma_\epsilon$ | amplitude of short-term / white-noise perturbations | mag day$^{-3/2}$ |
+| `DHO tau_perturb` | $\tau_{\rm perturb}$ | short-term perturbation timescale | days |
 
 The provider states that:
 - simulations with **DRW noise** contain NaNs in the DHO truth parameters;

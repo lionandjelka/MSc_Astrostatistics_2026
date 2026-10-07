@@ -13,7 +13,7 @@ The supplied dataset-reading notebook confirms:
 - `field` = WFD or DDF;
 - RA/Dec and orbital angles in degrees;
 - total mass in solar masses;
-- mass ratio \(M_2/M_1\);
+- mass ratio $M_2/M_1$;
 - **observed orbital period in years**;
 - light-curve timestamps in MJD;
 - observed magnitude and uncertainty in mag;

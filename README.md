@@ -86,3 +86,14 @@ binary-SMBH applications, code demonstrations, diagnostics, board problems and
 discussion checkpoints.
 
 See `FULLY_DEVELOPED_LECTURE_QA.md` for the final lecture-depth audit.
+
+
+## Equation rendering on GitHub
+
+All course notebooks use GitHub-compatible Markdown math delimiters:
+
+- inline mathematics: `$...$`
+- displayed mathematics: `$$...$$`
+
+This is intentionally preferred over `\(...\)` and `\[...\]` so equations
+render reliably in GitHub notebook previews as well as Jupyter.

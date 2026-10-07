@@ -30,7 +30,7 @@ heavy light-curve arrays.
 ## Tier 3 — curated raw light curves
 
 Prepare a common Week-7 subset containing a manageable number of full
-\(ugrizy\) light curves. Timestamps are MJD; the physical input period is the
+$ugrizy$ light curves. Timestamps are MJD; the physical input period is the
 **observed orbital period in years**.
 
 Per-band `info` should remain private until students finish inference and are

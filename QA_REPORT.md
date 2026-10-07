@@ -73,7 +73,7 @@ Confirmed and incorporated:
 - `field` values WFD/DDF;
 - RA/Dec and orbital angles in degrees;
 - total mass in solar masses;
-- mass ratio \(M_2/M_1\);
+- mass ratio $M_2/M_1$;
 - period is the **observed orbital period in years**;
 - light-curve time is MJD;
 - DRW/DHO truth definitions and units;

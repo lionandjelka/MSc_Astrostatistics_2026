@@ -9,7 +9,7 @@ inputs and extracting individual multiband light curves.
 - Full with-inputs dataset: **1,200,000 simulations**.
 - Field values: `WFD` or `DDF`.
 - Total binary mass: solar masses.
-- Mass ratio: \(M_2/M_1\).
+- Mass ratio: $M_2/M_1$.
 - Period: **observed orbital period [yr]**.
 - RA/Dec, inclination, argument of pericenter: degrees.
 - Light-curve time: MJD.
