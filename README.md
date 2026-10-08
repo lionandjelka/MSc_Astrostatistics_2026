@@ -28,7 +28,7 @@ The same binary-SMBH simulation is revisited throughout the semester so that sta
 
 | Week | Topic | 3 h lecture | 4 h hands-on | Crete learning material |
 |---:|---|---|---|---|
-| 1 | Statistical Thinking, Probability and the Generative View | [Lecture](lectures/W01_LECTURE_Statistical_Thinking_Probability_and_the_Generative_View.ipynb) | [Hands-on](labs/W01_LAB.ipynb) | `01_Intro/Intro.ipynb` |
+| 1 | Statistical Thinking, Probability and the Generative View | [Lecture](lectures/W01_LECTURE_Statistical_Thinking_Probability_and_the_Generative_View.ipynb) | [Hands-on](labs/W01_LAB.ipynb) | [01_Intro/Intro.ipynb](https://github.com/lionandjelka/2025_summer_school/blob/main/01_Intro/Intro.ipynb) [Answerkey](https://github.com/lionandjelka/2025_summer_school/blob/main/01_Intro/Intro_answerkey.ipynb)|
 | 2 | Hypothesis Testing, Resampling and Multiple Discovery | [Lecture](lectures/W02_LECTURE_Hypothesis_Testing_Resampling_and_Multiple_Discovery.ipynb) | [Hands-on](labs/W02_LAB.ipynb) | `02_Hypothesis_Testing/Hypothesis.ipynb` |
 | 3 | Optimisation, Likelihood and Maximum-Likelihood Estimation | [Lecture](lectures/W03_LECTURE_Optimisation_Likelihood_and_Maximum-Likelihood_Estimation.ipynb) | [Hands-on](labs/W03_LAB.ipynb) | `03_Optimization/Optimization.ipynb`, `04_MLE/MLE.ipynb` |
 | 4 | Bayesian Inference, Priors and Posterior Prediction | [Lecture](lectures/W04_LECTURE_Bayesian_Inference_Priors_and_Posterior_Prediction.ipynb) | [Hands-on](labs/W04_LAB.ipynb) | `06_Bayesian/Bayesian_1.ipynb`, `06_Bayesian/Bayesian_2_Bayesball.ipynb`, `06_Bayesian/Bayesian_3.ipynb` |
